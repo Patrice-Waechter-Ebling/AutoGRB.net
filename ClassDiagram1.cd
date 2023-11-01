@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GRB2023.dlgDemandePrix" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAMCACAIQAAACAQAACAAAAAAkQEAgAAIAAAAA=</HashCode>
+      <FileName>dlgDemandePrix.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.dlgImpressionClient" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAEMCEwAARAAACAAAACAQAAAAgAAAAAAIACAAA=</HashCode>
+      <FileName>dlgImpressionClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmAchat" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>863etKpX+/TvYD92WfmMfN/exdcobr7CcvprKhc/r7c=</HashCode>
+      <FileName>frmAchat.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmaddItemElec" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEMCAAgAQABACAAAACAAAABAgAAIAAAggBBAA=</HashCode>
+      <FileName>FrmaddItemElec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmaddItemMec" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACEAEECAAwCQABACAgBACABAABAgAACAAAkgBRBA=</HashCode>
+      <FileName>FrmaddItemMec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmAjoutAchat" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAECAAAAQAAACAQQCCADD/AAgAAAAAAggAIAA=</HashCode>
+      <FileName>frmAjoutAchat.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmAjoutDL" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEABJAAkSCBAACJEADACgACEEECKRBBsGBgAAAAAAU=</HashCode>
+      <FileName>frmAjoutDL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmAlarme" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAECgBAAAAAADAQTACAAAIQABYGAAAAAgAAAI=</HashCode>
+      <FileName>frmAlarme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmBonCommande" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GA0QGgIBUCiAABbAgEiRYAALIAR0sUhYHsNMYAABQJA=</HashCode>
+      <FileName>frmBonCommande.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmBonCommande_Instruction" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAkAAACCEEAAAAAgCMAAACgAEAGRRAABAAAAAAAAA=</HashCode>
+      <FileName>FrmBonCommande_Instruction.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmbonlivraison" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGIFIAAECgCABRABAjAgAECQAHQAAogiD4AACAAACA=</HashCode>
+      <FileName>frmbonlivraison.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmCatalogueElec" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QHf7q7k//LyH4nj7rxPut/nujW6tab3unP3CI/Kej1E=</HashCode>
+      <FileName>FrmCatalogueElec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmCatalogueMec" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QHf7q7k//LyG4nj7rwPutfnuj2etaf3unP/CI/Kej1E=</HashCode>
+      <FileName>FrmCatalogueMec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmCategorieClient" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEBAAASAAAAAAAACAIAgKkAAEiACgQAgAFAAAEAA=</HashCode>
+      <FileName>frmCategorieClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmCédule" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hiWV0CgwUTBFIiiCAAbwt95Hf1CnITEsTajx/0VxcEM=</HashCode>
+      <FileName>frmcédule.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixBonCommande" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAkaDAIASKCBIDQZdwCARJAGASAAQ2gAKBIoACDxBVA=</HashCode>
+      <FileName>frmChoixBonCommande.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixCatalogue" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAgAQAAiAAAAAAAACAIAAKAAAAAAAAAAAAAAAAgAg=</HashCode>
+      <FileName>frmChoixCatalogue.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixCategorie" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEMCAAAAQAAACAQQACABAAAAgAAAIAAAgAAAA=</HashCode>
+      <FileName>frmChoixCategorie.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixClient" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAICAFCAAACAAABCAAQQCAAAAAAAAAAAAAAoAAAA=</HashCode>
+      <FileName>frmChoixClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixCommentaire" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAABBAAAACIQQACAAAAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>frmChoixCommentaire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixContactFRS" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAACAAAAQAAECAQQACAAAAEAgAAAAAAAoAAAA=</HashCode>
+      <FileName>frmChoixContactFRS.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixDateImpressionFacturation" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkKAAhAtGiABAUAAhugQAICGARCAAhgCGAwAFBAEBE=</HashCode>
+      <FileName>frmChoixDateImpressionFacturation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixDateImpressionFT" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIEAAggAtGgQAgUAAhCIAAACAAACAAhwOIQgAhAQAAA=</HashCode>
+      <FileName>frmChoixDateImpressionFT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixDateImpressionReception" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAgAtGiAAAUAElCEQAACAAACgAhgCAIgABAAAAA=</HashCode>
+      <FileName>frmChoixDateImpressionReception.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixDateSommairePunch" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAggAtGgIAF0BIhCAAAQCAEACAAhgSCAgIhCAAAM=</HashCode>
+      <FileName>frmChoixDateSommairePunch.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixDemande" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kSnoHpgH8KaCQDXsJhK2YVxqVwYMhfTffQJIjiiDlGQ=</HashCode>
+      <FileName>frmChoixDemande.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixMailList" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAUCAAABQAAADAQ4ACAAAAAAgAAAAAABgAAAQ=</HashCode>
+      <FileName>frmChoixDistributionListe.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixDossier" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAACAAAAQAAACAwQACAAAAAAgAAAAAAAkBAAA=</HashCode>
+      <FileName>frmChoixDossier.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixImpressionAchat" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAkItWgAAAUAAJCBQAACAZAPAAhgyEIiCBAAAAA=</HashCode>
+      <FileName>frmChoixImpressionAchat.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixImpressionFT" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJkCAAAAACAwAAQQBACAQAECQAAAAAgEAAAAIAAEAAA=</HashCode>
+      <FileName>frmChoixImpressionFT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixImpressionInventaire" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAACAAAAQIAASAQIACAAAAAAgAAAAAAACAAAA=</HashCode>
+      <FileName>frmChoixImpressionInventaire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixImpressionRetourMarchandise" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkBAAEAACAAAAQAAACAAAACAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>frmChoixImpressionRetourMarchandise.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixInventaire" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgQIAiCAAAAgAACAIAAKAAAAIAAAIAAAAAAAgAg=</HashCode>
+      <FileName>frmChoixInventaire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixLocalisation" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAAAAACAQQACAAAAEAAAAAYAAAgAAgA=</HashCode>
+      <FileName>frmChoixLocalisation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixProjSoum" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAMAgAA0ECCAAABAAACAIACKALD/gEIAABAAAAKEAAE=</HashCode>
+      <FileName>frmChoixProjSoum.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixPunch" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBgAAAACAAAAAAAACAIAAKBAECAAAAAAACQAKAAAQ=</HashCode>
+      <FileName>frmChoixPunch.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixQteBoite" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACABAAAAIBCAQQACAAAAECAAAAAAACgAAAA=</HashCode>
+      <FileName>frmChoixQteBoite.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixRetourMateriel" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAiAAAAAAAACAIAAKAAAAAAAAAAAAAAAggAg=</HashCode>
+      <FileName>frmChoixRetourMateriel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixSortieMateriel" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAiAAAAAAAACAIAAKAAAEAAAAAAAAAAAAgAg=</HashCode>
+      <FileName>frmChoixSortieMateriel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixTransfertJob" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAIAQCAAACQAJgCAQBACAAAACQgAIBAIAECBAEA=</HashCode>
+      <FileName>frmChoixTransfertJob.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmChoixVille" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAECAAAAQAAACIAQACAQCAAAgAAAAAAAgAAAA=</HashCode>
+      <FileName>frmChoixVille.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmClient" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Z7PFsJsn/emEUkAKBiHcFWdjWWr/oZvEC72yjbZBeA8=</HashCode>
+      <FileName>FrmClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmCommentairesProjSoum" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAUCAABBAAAACMYBAaBAAAEAAAgAACggAAAAA=</HashCode>
+      <FileName>frmCommentairesProjSoum.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmContact" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aqHVgKEXUCmEMqABAyDIARcDUQPB4J0QCgYACbJCRCk=</HashCode>
+      <FileName>FrmContact.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmDetailTemps" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAkAAIMAAKAIIAQCAEDAQQACAAAAAAgAAAAAAAgBAAA=</HashCode>
+      <FileName>frmDetailTemps.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmDispatch" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEEggBAghiBGAAEUJBGiEAACElAAAKgwhAECQAAACAI=</HashCode>
+      <FileName>FrmDispatch.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmDistList" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGgAAwAECABABkAgADAABYCAAECBUAAAAAQgFAQDAE=</HashCode>
+      <FileName>frmDistList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmemploye" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QA3AoTBANSmFECSCQACEIQCKMQgQMAhsAgghiggOBQg=</HashCode>
+      <FileName>frmemploye.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmExceptionsDL" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAABCAAAIAAAKCEAAACgAQAAAgAAAAEAgAAAQA=</HashCode>
+      <FileName>frmExceptionsDL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmExportToOutLook" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEWIAABECEEQABAAACAAAECAAAEAAAIAAQAAAAWACA=</HashCode>
+      <FileName>frmExportToOutLook.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmFacturation" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ac0FkIlgkmHCIiRiVT6eoVQ7KAeFEOJ+CAZDZOhJeKQ=</HashCode>
+      <FileName>frmFacturation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmFeuilleTemps" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GElVkwaJlzjANi4C8wCHZwBKKgCQDajJCEgAmmEcycQ=</HashCode>
+      <FileName>frmFeuilleTemps.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmFeuilleTempsCalendrier" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQCAAAAAAAICAAAACAAAAAACACACAAAgBAAA=</HashCode>
+      <FileName>frmFeuilleTempsCalendrier.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmFRS" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>96PHpJ0n0WnFdlSKIijKEUdjYWXV6Z/cCzUB3ZIm9C8=</HashCode>
+      <FileName>FrmFRS.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmGroupes" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Wg8oASATMGBQKCUKAIKWKBZKoETREChSBaAIki8Ao0k=</HashCode>
+      <FileName>frmGroupes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmInventaireElec" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQkEAiIQnHAAAkwAIDCCMMRKIVBSAAgiCADkUFAAgJI=</HashCode>
+      <FileName>frmInventaireElec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmInventaireMec" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQkEAiIQnHAAAkwBIDCCMMRKIUBSBAgiCACkUBAAgJI=</HashCode>
+      <FileName>frmInventaireMec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmLegende" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEwABAEECAEAAAAAACiIEAKADD/AgAgAAAAAAIAAAA=</HashCode>
+      <FileName>frmLegende.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmLogin" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAAAEGAAEAAAAACAQYACIAAAAAAAABEAAAgAAAA=</HashCode>
+      <FileName>frmLogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmLoginPrincipal" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQEAQgAQECAAEAAAAACAAQACAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>frmLoginPrincipal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmModType" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAgAEQAGCAAEIACACMYIAKDAAIAIAGAAgJAhAAEAE=</HashCode>
+      <FileName>FrmModType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmoutils" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCGAEFCGEClAACDwDgTKYQwCBAGRCQhCK4AAAZAC0AA=</HashCode>
+      <FileName>frmoutils.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmOutils_InOut" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAGEgAACUCNAIEDwDgCKAACHAAAACQAKICAAhRAIQCA=</HashCode>
+      <FileName>FrmOutils_InOut.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmPara" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiXDgCIAEiA8IIAYgKTiZEAOADv/RGJoJAhSgSAASAE=</HashCode>
+      <FileName>FrmPara.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmPhotoProjSoum" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAQAACAFAAAAAgCAYAAKAAAAAAAACEAAAAAAAAA=</HashCode>
+      <FileName>frmPhotoProjSoum.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmProjSoumElec" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>///+/f4/3/3/9/33+//uvv/+9d/+/+///fv/c1//f78=</HashCode>
+      <FileName>FrmProjSoumElec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmProjSoumElecTemps" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>f3GOBCaMkiBURkBbowvMaPjuRXz/yAKANYOvHrCN7wU=</HashCode>
+      <FileName>frmProjSoumElecTemps.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmProjSoumMec" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>///e/f4/3///9/33e//uvv/+99/2/+/39f3/e9f/f78=</HashCode>
+      <FileName>frmProjSoumMec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmProjSoumMecTemps" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wn6xHe2lTY9T2Vb60Lu4rhOxXv/zRfg04v/nvBVZ10=</HashCode>
+      <FileName>frmProjSoumMecTemps.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmPunch" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>nAtFtV9DvzWNuW5jsyP7/57L708Ufvz5BFiD76ko00c=</HashCode>
+      <FileName>frmPunch.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmReceptionElec" Collapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gYsYgoiIEqAgmGRADRCF+JQL/jkDQI5aAvAfsECpBKU=</HashCode>
+      <FileName>FrmReceptionElec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.FrmReceptionMec" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gYsYgIhIEqAgGGRADRCF+JQL/jkBQI5aAvAfkECpBKU=</HashCode>
+      <FileName>FrmReceptionMec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmRechercheInventaire" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAFAEAnAcCAAAgCA1CCAYBAKUAAIAAADAAJATEIAAcA=</HashCode>
+      <FileName>frmRechercheInventaire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmreport" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>r1vBJuMm1iGAkY3REEGIYuae4TcAa0RWjBtIkQPrWSI=</HashCode>
+      <FileName>frmreport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmRetourMarchandise" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkQAAoIGLAoCEUAAQCAaAAK/gEAAAAKAmQEAACggAU=</HashCode>
+      <FileName>frmRetourMarchandise.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmRetourMateriel" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kWEAAQCAEKAAACDC5SCAYYCKARAAAQgEAQIIKAIkAUA=</HashCode>
+      <FileName>frmRetourMateriel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmSortieMateriel" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kSEAAACAEKAAACDC5SCAYYCKARBAAQgEAQIIKAIkAUA=</HashCode>
+      <FileName>frmSortieMateriel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmSoumissionSectionElec" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEBAEAAEChBgCSAAADAAwAKIRSAC4gACAQAIAhQAAE=</HashCode>
+      <FileName>frmSoumissionSectionElec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmSoumissionSectionMec" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEBAEAAEChBwCSAAADAAQAKIBSAC4gACAAAIAhQAAE=</HashCode>
+      <FileName>frmSoumissionSectionMec.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmValiderSuppression" Collapsed="true">
+    <Position X="12.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAEiAAAIQBAACIQIACAAAAAAgBDAAAACAAACA=</HashCode>
+      <FileName>frmValiderSuppression.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRB2023.frmvendeur" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAGAIAAwVCGIABQAwBDMASECACCyAAiAiN6IADAAACI=</HashCode>
+      <FileName>frmvendeur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="GRB2023.ModuleBD" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAAAAAAAAAAIAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModuleBD.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="GRB2023.ModuleMain" Collapsed="true">
+    <Position X="2.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBaiAgGS0hR4g0AQMAGBlFdKggWApETQBABGxTXcHJE=</HashCode>
+      <FileName>ModuleMain.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="GRB2023.UpgradeSupport" Collapsed="true">
+    <Position X="4" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UpgradeSupport.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
